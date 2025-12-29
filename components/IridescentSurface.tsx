@@ -136,7 +136,7 @@ const IridescentSurface: React.FC<IridescentSurfaceProps> = ({
 
     void main() {
       // --- Fluted Glass Constants (from user snippet) ---
-      const float u_numSegments = 20.0;
+      const float u_numSegments = 30.0;
       const float u_inputOutputRatio = 1.2;
       const float u_overlap = 0.6;
       const float u_light_strength = 0.2;
