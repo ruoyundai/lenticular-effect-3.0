@@ -1,0 +1,5 @@
+{
+  "name": "Lenticular Shader[change color]",
+  "description": "A high-fidelity holographic iridescent liquid shader reproduction using React, Three.js, and custom GLSL to match a specific metallic foil visual aesthetic.",
+  "requestFramePermissions": []
+}
